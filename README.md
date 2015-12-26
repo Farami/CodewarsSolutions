@@ -1,4 +1,4 @@
-To run the tests you have to install karma, jasmine-core and karma-babel-preprocessor.
+To run the tests you have to install karma and jasmine-core.
 
 To do so, enter the following:
 ```
